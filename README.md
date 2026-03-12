@@ -58,7 +58,7 @@ This full-stack application allows users to submit support tickets, which are th
 ### 1. Clone the Repository
 ```bash
 git clone https://github.com/raziya-023/AutoTriage-AI
-cd YOUR_REPO_NAME
+cd AutoTriage-AI
 ```
 
 ---
@@ -141,3 +141,4 @@ By default, all new signups are standard users. To access the Admin Panel:
 3. Find your user document in the `users` collection.
 4. Change the `role` field from `"user"` to `"admin"`.
 5. Log out and log back in on the frontend to reveal the **Admin Dashboard**.
+
